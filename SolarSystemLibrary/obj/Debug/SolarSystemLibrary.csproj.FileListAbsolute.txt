@@ -1,0 +1,10 @@
+C:\Users\selle\source\repos\SolarSystem\SolarSystemLibrary\bin\Debug\SolarSystemLibrary.dll
+C:\Users\selle\source\repos\SolarSystem\SolarSystemLibrary\bin\Debug\SolarSystemLibrary.pdb
+C:\Users\selle\source\repos\SolarSystem\SolarSystemLibrary\obj\Debug\SolarSystemLibrary.csprojAssemblyReference.cache
+C:\Users\selle\source\repos\SolarSystem\SolarSystemLibrary\obj\Debug\SolarSystemLibrary.dll
+C:\Users\selle\source\repos\SolarSystem\SolarSystemLibrary\obj\Debug\SolarSystemLibrary.pdb
+C:\Users\Bonn\source\repos\SolarSystem\SolarSystemLibrary\bin\Debug\SolarSystemLibrary.dll
+C:\Users\Bonn\source\repos\SolarSystem\SolarSystemLibrary\bin\Debug\SolarSystemLibrary.pdb
+C:\Users\Bonn\source\repos\SolarSystem\SolarSystemLibrary\obj\Debug\SolarSystemLibrary.csprojAssemblyReference.cache
+C:\Users\Bonn\source\repos\SolarSystem\SolarSystemLibrary\obj\Debug\SolarSystemLibrary.dll
+C:\Users\Bonn\source\repos\SolarSystem\SolarSystemLibrary\obj\Debug\SolarSystemLibrary.pdb
