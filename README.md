@@ -1,2 +1,4 @@
 # SolarSystem ☄️🌔💫
-C# and .NET.  Libraries, Graphical Elements, Timers, Events & Delegates. 
+C# and .NET.  
+
+Libraries, Graphical Elements, Timers, Events & Delegates. 
